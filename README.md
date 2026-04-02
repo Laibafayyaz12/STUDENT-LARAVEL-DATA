@@ -68,4 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## AUTHOR
 ## NAME  : LAIBA FAYYAZ
 ## ROLL NO : COSC231101014
+ <img width="1366" height="731" alt="screenshot 1" src="https://github.com/user-attachments/assets/070d9b78-1f41-4089-8ac7-f19446cedbfb" />
  
+<img width="1366" height="726" alt="screenshot2" src="https://github.com/user-attachments/assets/b5fd6197-b510-457f-bc5d-6ad69d77433a" />
+
